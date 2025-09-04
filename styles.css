@@ -70,7 +70,7 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 70px;
+  gap: 90px;
   max-width: 1400px;
   text-align: center;
   font-family: 'Monotype Corsiva', cursive, sans-serif;
@@ -212,3 +212,4 @@ html, body {
   }
 
 }
+
